@@ -51,7 +51,7 @@ function App() {
               </svg>
             </div>
             <div className="nav-elem">
-              <i className="ri-arrow-right-s-line"></i> Our Show reel
+              {/* <i className="ri-arrow-right-s-line"></i> Our Show reel */}
             </div>
             <div className="nav-elem">
               <i className="ri-menu-3-line"></i>
@@ -66,11 +66,11 @@ function App() {
           <div className="bottom">
             <div className="left"></div>
             <div className="right">
-              <p>
-                Dogstudio is a multidisciplinary <br />
-                creative studio at the intersection <br />
-                of art, design and technology.
-              </p>
+         <p>
+  We craft immersive <br />
+  3D web experiences <br />
+  where design meets technology.
+</p>
             </div>
           </div>
 
